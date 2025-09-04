@@ -1,5 +1,10 @@
-# 💫 About Me:
-🎯 I'm currently working on: "SoccerStats: A comprehensive soccer statistics platform <br>using deep learning to predict match outcomes and analyze player performance. Also<br> starting a new project using voice recognition and sentiment analysis to provide <br>personalized recommendations based on conversations."<br><br>🤝 I'm looking to collaborate on: "Projects involving machine learning, data science, <br>AI, or voice recognition, especially those that focus on innovative applications of these <br>technologies."<br><br>🧠 I'm looking for help with: "Improving the efficiency of my SoccerStats API by optimizing <br>data retrieval and integrating real-time analytics, and collaborating on the voice recognition <br>and sentiment analysis system."<br><br>🌱 I'm currently learning: "Deep learning frameworks like TensorFlow and PyTorch, advanced <br>data analysis techniques, and diving deeper into natural language processing for my new <br>sentiment analysis project."<br><br>⚡ Fun fact: "I'm an international student with a love for football, both watching games and diving <br>into data to predict the outcome. Also, I'm training to become a better swimmer!"
+## 💫 About Me
+
+- 🎯 I want to **keep expanding my skills** by creating new projects, both academic and independent.  
+- 🤝 I’m looking to **collaborate on projects** that not only help me grow but also have a **real impact**.  
+- 🌱 Every project I build is an opportunity to **learn new technologies, improve problem-solving, and work with others** to create something meaningful.  
+- ⚡ Fun fact: I’m an international student passionate about **soccer, data, and continuous growth**—and I’m also training to become a better swimmer! 🏊‍♂️⚽  
+
 
 
 ## 🌐 Socials:
