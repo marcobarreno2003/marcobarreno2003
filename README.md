@@ -3,7 +3,6 @@
 - 🎯 I want to **keep expanding my skills** by creating new projects, both academic and independent.  
 - 🤝 I’m looking to **collaborate on projects** that not only help me grow but also have a **real impact**.  
 - 🌱 Every project I build is an opportunity to **learn new technologies, improve problem-solving, and work with others** to create something meaningful.  
-- ⚡ Fun fact: I’m an international student passionate about **soccer, data, and continuous growth**—and I’m also training to become a better swimmer! 🏊‍♂️⚽  
 
 
 
